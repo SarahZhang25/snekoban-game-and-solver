@@ -2,17 +2,7 @@
 Recreation of 'Sokoban' game in Python that can be played and also has a solver. Completed for MIT 6.009 Spring 2022 lab.
 
 ## Gameplay
-Snekoban description: The player controls a green snake character and the goal is to push computers around an environment with walls and barriers until every target (yellow flag) is covered with a computer.
-
-Screenshot example 1:
-
-![example 1: game board](screenshots/game_screenshot_ex.png)
-
-Gameplay screenshot: starting config
-![gameplay screenshot: starting config](screenshots/game_screenshot_start.png)
-
-Gameplay screenshot: victory state
-![gameplay screenshot: victory state](screenshots/game_screenshot_solved.png)
+Snekoban description: The player controls a green snake character and the goal is to push computers around an environment with walls and barriers until every target (yellow flag) is covered with a computer. See gameplay screenshots at the bottom of the README.
 
 To play, run `server.py`.
 
@@ -32,3 +22,17 @@ while unvisited paths queue is not empty or victory state not achieved:
         add terminal board state to visited
         add each next viable, unvisited move set to q
 ```
+
+## Screenshots
+Example 1:
+
+![example 1: game board](screenshots/game_screenshot_ex.png)
+
+
+Gameplay screenshot: starting config:
+
+![gameplay screenshot: starting config](screenshots/game_screenshot_start.png)
+
+Gameplay screenshot: victory state:
+
+![gameplay screenshot: victory state](screenshots/game_screenshot_solved.png)
