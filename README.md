@@ -5,9 +5,9 @@ Recreation of 'Sokoban' game in Python that can be played and also has a solver.
 Snekoban description: The player controls a green snake character and the goal is to push computers around an environment with walls and barriers until every target (yellow flag) is covered with a computer.
 
 Screenshots from example levels:
-![[example 1: game board](screenshots/game_screenshot_ex.png)
-![[gameplay screenshot: starting config](screenshots/game_screenshot_start.png)
-![[gameplay screenshot: victory state](screenshots/game_screenshot_solved.png)
+![example 1: game board](screenshots/game_screenshot_ex.png)
+![gameplay screenshot: starting config](screenshots/game_screenshot_start.png)
+![gameplay screenshot: victory state](screenshots/game_screenshot_solved.png)
 
 To play, run `server.py`.
 
