@@ -29,10 +29,10 @@ Example 1:
 ![example 1: game board](screenshots/game_screenshot_ex.png)
 
 
-Gameplay screenshot: starting config:
+Gameplay screenshot, starting config:
 
 ![gameplay screenshot: starting config](screenshots/game_screenshot_start.png)
 
-Gameplay screenshot: victory state:
+Gameplay screenshot, victory state:
 
 ![gameplay screenshot: victory state](screenshots/game_screenshot_solved.png)
